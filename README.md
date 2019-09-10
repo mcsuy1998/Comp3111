@@ -1,4 +1,3 @@
 # Comp3111
 
-![History](/Screen Shot 2019-09-11 at 2.06.28 AM.png)
-Format: ![Alt Text](url)
+![alt text](https://github.com/mcsuy1998/Comp3111/blob/master/Screen%20Shot%202019-09-11%20at%202.06.28%20AM.png)
